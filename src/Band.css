@@ -1,5 +1,5 @@
 * {
-background-color: black;
+    background-color: black;
 }
 .band {
     text-align: center;
@@ -7,5 +7,18 @@ background-color: black;
 .photo {
     height: 400px;
     width: 400px;
+    border-radius: 5%;
 }
+.photo1 {
+    height: 600px;
+    width: 800px;
+}
+
+h1 {
+    margin-top: 20px;
+    color: red;
+    font-family: 'Rock Salt', cursive;
+
+}
+
 

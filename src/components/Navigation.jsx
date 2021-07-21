@@ -1,7 +1,6 @@
 import { NavLink} from "react-router-dom"
 import './Navigation.css'
 export default function Navigation() {
-    // alert("Navigation loading")
 
     return(<>
     <NavLink exact to="/">SYSTEM OF A DOWN</NavLink>

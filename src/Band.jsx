@@ -18,7 +18,7 @@ export default function Band() {
 <Switch>
 <Route exact path="/">
 
-<img className="photo"  src={Img5} alt="Img1" />
+<img className="photo1"  src={Img5} alt="Img1" />
       
     </Route>
 

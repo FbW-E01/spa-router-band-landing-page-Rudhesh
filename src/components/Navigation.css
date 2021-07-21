@@ -1,26 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 
 .navigation li {
     list-style: none;
     display: inline;
-    padding: 0 10px;
+    padding: 0 25px;
+    margin: 15px;
     
 
 
 }
 
+.navigation a:hover {
+
+    background-color: rgb(255, 64, 64);
+    color: #000;
+    border-radius: 10px;
+
+}
+
+
  .navigation a {
     text-decoration: none;
-    color: wheat;
-    font-size: 1.8em;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    padding: 0 5px;
+    margin: 15px;
+    font-family: 'Anton', sans-serif;
 
 }
 
 a {
     text-decoration: none;
-    color: wheat;
-    font-size: 2em;
-    font-family:cursive,
-
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+    font-family: 'Otomanopee One', sans-serif;
 }
+
