@@ -1,0 +1,26 @@
+
+
+.navigation li {
+    list-style: none;
+    display: inline;
+    padding: 0 10px;
+    
+
+
+}
+
+ .navigation a {
+    text-decoration: none;
+    color: wheat;
+    font-size: 1.8em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: wheat;
+    font-size: 2em;
+    font-family:cursive,
+
+}
